@@ -12,11 +12,11 @@
  
 
 ---
-
 ## 🛠️ Tecnologías & Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,django,java,spring,postgres,mysql,mongodb,redis,docker,git,github,linux,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=ts,python,java,nodejs,js,docker,aws,playwright,postgres,mysql,flask,django,linux,github&perline=7" />
 </p>
+
 
 ---
 ## 📊 Mi actividad en GitHub
