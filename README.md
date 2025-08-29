@@ -14,7 +14,7 @@
 ---
 ## 🛠️ Tecnologías & Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,python,java,nodejs,js,docker,aws,postgres,mysql,flask,django,linux,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=ts,python,java,nodejs,js,docker,aws,postgres,mysql,flask,django,linux,github,nestjs&perline=7" />
 </p>
 
 
