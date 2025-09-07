@@ -1,12 +1,12 @@
-# 👋 Hola, soy Joel Briones
+# 👋 Hi, i'm Joel Briones
 
-💻 **Desarrollador Backend**  
-🚀 Apasionado por la tecnología, el código limpio y crear soluciones que marquen la diferencia.  
+💻 **Backend Developer**  
+🚀 Passionate about technology, clean code adn creating solutions that make a difference 
 
 ---
 
-## 🌟 Sobre mí
-- 🔭 Actualmente trabajando en: GSF/BYA
+## 🌟 About me
+- 🔭 Now I'm working in: GSF/BYA
 
 
  
