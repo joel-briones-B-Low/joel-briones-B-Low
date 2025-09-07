@@ -20,7 +20,7 @@
 
 
 ---
-## 📊 Mi actividad en GitHub
+## 📊 My activity in GitHub
 
 <p align="center">
   <!-- Stats -->
