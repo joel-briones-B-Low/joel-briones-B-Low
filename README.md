@@ -1,7 +1,7 @@
 # 👋 Hi, i'm Joel Briones
 
 💻 **Backend Developer**  
-🚀 Passionate about technology, clean code adn creating solutions that make a difference 
+🚀 Passionate about technology, clean code and creating solutions that make a difference 
 
 ---
 
