@@ -14,11 +14,19 @@
 ---
 ## 🛠️ Technologys & Tools
 <p align="left">
- <img src="https://playwright.dev/img/playwright-logo.svg" width=s48" height="48" alt="Playwright" style="margin-top:10px; border-radius:8px; background:#ffffff; padding:6px; box-shadow:0 0 0 2px #8B5CF6 inset;"/>
-  <img src="https://skillicons.dev/icons?i=python,ts,java,nodejs,js,docker,aws,postgres,mysql,flask,django,linux,github,nestjs,mongo&perline=7" />
- <a href="https://js.langchain.com/docs/introduction/">
-  <img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" width="48" height="48" alt="langchain" />
-</a>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,nodejs,nestjs,flask,django&perline=8" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,postgres,mysql,mongodb,linux,github&perline=8" />
+  <br>
+  <a href="https://playwright.dev/">
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  </a>
+  <a href="https://www.langchain.com/">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  </a>
+  <a href="https://langchain-ai.github.io/langgraph/">
+    <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=3FB1ED" />
+  </a>
 </p>
 
 
