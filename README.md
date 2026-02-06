@@ -16,9 +16,9 @@
 <p align="left">
  <img src="https://playwright.dev/img/playwright-logo.svg" width=s48" height="48" alt="Playwright" style="margin-top:10px; border-radius:8px; background:#ffffff; padding:6px; box-shadow:0 0 0 2px #8B5CF6 inset;"/>
   <img src="https://skillicons.dev/icons?i=python,ts,java,nodejs,js,docker,aws,postgres,mysql,flask,django,linux,github,nestjs,mongo&perline=7" />
- <img src="https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=langchain&logoColor=white" />
-
-<img src="https://img.shields.io/badge/LangGraph-121011?style=for-the-badge&logo=langchain&logoColor=99CFBB" />
+ <a href="https://js.langchain.com/docs/introduction/">
+  <img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" width="48" height="48" alt="langchain" />
+</a>
 </p>
 
 
