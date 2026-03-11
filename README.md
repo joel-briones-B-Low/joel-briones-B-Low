@@ -13,23 +13,31 @@
 ---
 
 ## 🛠️ Technologies & Tools
+
+**Languages & Frameworks**
 <p align="left">
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" style="margin-top:10px; border-radius:8px; background:#ffffff; padding:6px; box-shadow:0 0 0 2px #8B5CF6 inset; margin-right: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,java,nodejs,js,docker,aws,postgres,mysql,flask,django,linux,github,nestjs,mongo&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,nestjs,java,flask,django&perline=12" alt="Languages and Frameworks"/>
+</p>
+
+**Databases, Cloud & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,redis,docker,aws,linux,bash,git,github&perline=12" alt="Databases and DevOps"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" style="border-radius:8px; background:#ffffff; padding:6px; box-shadow:0 0 0 2px #8B5CF6 inset; margin-left: 5px;"/>
 </p>
 
 ---
+
 ## 📊 My activity in GitHub
 
 <p align="center">
-  <!-- Stats -->
+  <img src="https://komarev.com/ghpvc/?username=joel-briones-B-Low&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joel-briones-B-Low&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160"/>
-  
-  <!-- Lenguajes -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-briones-B-Low&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
 </p>
 
 <p align="center">
-  <!-- Racha de contribuciones -->
   <img src="https://streak-stats.demolab.com?user=joel-briones-B-Low&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
 </p>
