@@ -17,6 +17,7 @@
   <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" style="margin-top:10px; border-radius:8px; background:#ffffff; padding:6px; box-shadow:0 0 0 2px #8B5CF6 inset; margin-right: 10px;"/>
   <img src="https://skillicons.dev/icons?i=python,fastapi,ts,java,nodejs,js,docker,aws,postgres,mysql,flask,django,linux,github,nestjs,mongo&perline=8" alt="Tech Stack"/>
 </p>
+
 ---
 ## 📊 My activity in GitHub
 
