@@ -17,6 +17,8 @@
 **Languages & Frameworks**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,nestjs,java,flask,django&perline=12" alt="Languages and Frameworks"/>
+
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" style="border-radius:8px; background:#ffffff; padding:6px; box-shadow:0 0 0 2px #8B5CF6 inset; margin-left: 5px;"/>
 </p>
 
 **Databases, Cloud & DevOps**
