@@ -30,10 +30,6 @@
 ## 📊 My activity in GitHub
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joel-briones-B-Low&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joel-briones-B-Low&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joel-briones-B-Low&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
 </p>
