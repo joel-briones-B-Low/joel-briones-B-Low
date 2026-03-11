@@ -24,7 +24,7 @@
 **Databases, Cloud & DevOps**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,redis,docker,aws,linux,bash,git,github&perline=12" alt="Databases and DevOps"/>
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" style="border-radius:8px; background:#ffffff; padding:6px; box-shadow:0 0 0 2px #8B5CF6 inset; margin-left: 5px;"/>
+ 
 </p>
 
 ---
