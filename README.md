@@ -1,35 +1,36 @@
-# 👋 Hi, I'm Joel Briones 
+# 👋 Hi, I'm Joel Briones (BatBriones) 🦇
 
-💻 **Backend Developer | Project Coordinator | Programming Instructor** 🚀 Passionate about technology, clean code, and creating solutions that make a difference.
+💻 **AI & Backend Architect | Project Coordinator | Tech Educator**  
+🚀 Passionate about clean architecture, agentic AI workflows, and building systems that scale with elegance.
 
 ---
 
 ## 🌟 About me
-- 🔭 **Currently working at:** GSF/BYA, focusing on backend architecture, AI agent development, and robust API integrations.
-- 🧠 **Currently building:** A Retrieval-Augmented Generation (RAG) system utilizing vector databases and OCR, alongside a Dockerized gym management platform.
-- 🌱 **Currently exploring:** Cybersecurity engineering, network security, and ethical hacking to level up my development skills.
-- 💬 **Ask me about:** Python, FastAPI, WebSockets, Redis, LangGraph, PostgreSQL, Docker, and asynchronous programming. I love teaching these concepts!
+- 🔭 **Currently working at:** GSF/BYA, leading backend architecture, **AI Agent Orchestration**, and robust API integrations.
+- 🧠 **Currently building:** Advanced AI Hubs using **Model Context Protocol (MCP)**, Dynamic Intent Routers with Gemini/LLMs, and hyper-fast microservices using **Bun + ElysiaJS**.
+- 🌱 **Currently exploring:** Agentic Loops, LLM memory injection (DynamoDB), and deep Web3 / Cybersecurity engineering.
+- 💬 **Ask me about:** AI Workflows, Python (FastAPI), TypeScript (Bun/Elysia), LangGraph, PostgreSQL, Docker, and system design. (I love mentoring on these topics!)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Arsenal
 
 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,nestjs,java,flask,django&perline=12" alt="Languages and Frameworks"/>
-
-  <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" style="border-radius:8px; background:#ffffff; padding:6px; box-shadow:0 0 0 2px #8B5CF6 inset; margin-left: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=ts,bun,nodejs,python,fastapi,js,nestjs,java,flask,django&perline=12" alt="Languages and Frameworks"/>
 </p>
 
-**Databases, Cloud & DevOps**
+**AI, Databases, Cloud & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,redis,docker,aws,linux,bash,git,github&perline=12" alt="Databases and DevOps"/>
- 
+  <img src="https://skillicons.dev/icons?i=postgres,dynamodb,mysql,mongo,redis,docker,aws,linux,bash,git,github&perline=12" alt="Databases and DevOps"/>
 </p>
+
+**Core Competencies:**
+`LLM Orchestration` • `Model Context Protocol (MCP)` • `Agentic Loops` • `Vector Databases / RAG` • `Clean Architecture`
 
 ---
 
-## 📊 My activity in GitHub
+## 📊 GitHub Diagnostics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joel-briones-B-Low&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160"/>
@@ -39,3 +40,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joel-briones-B-Low&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
 </p>
+
+---
+*"Code is like humor. When you have to explain it, it’s bad."* 🍷
